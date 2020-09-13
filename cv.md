@@ -47,3 +47,12 @@ My life motto is:
 
 ---
 
+## work experience
+
+**Mapbox**
+
+2017 - until now
+:
+data specialist;
+:
+data markup team leader;
