@@ -1,0 +1,61 @@
+
+
+body {
+    background-image: url(https://sun2.beltelecom-by-minsk.userapi.com/QOs2EMDEQ1cavKbnYinX6b5NsnKm_zeMxHa0nw/GWCw_Cutezo.jpg);
+    background-color:rgb(0, 0, 0);
+    font-family: "monospace";
+    font-weight: 300;
+    font-size: 16px;
+    color: #555;
+    -webkit-font-smoothing: antialiased;
+    -webkit-overflow-scrolling: touch;
+    background-size: cover;
+   }
+
+.pagesize{
+  max-width: 1024px;
+  margin: auto;
+  top: initial;
+  background-color: rgb(255, 255, 255, 0.2);
+  padding: 35px;
+} 
+
+
+p {
+    line-height: 20px;
+    margin-bottom: 25px;
+    font-size: 12px;
+    color: rgb(255, 255, 255);
+  }
+
+
+ .text {
+   color: rgb(255, 255, 255);
+   opacity:1;
+ }
+   
+ .grow:hover {
+ -webkit-transform: scale(1.1);
+ -ms-transform: scale(1.1);
+  transform: scale(1.1);
+  transition-timing-function: cubic-bezier(1, 0, 0, 1);
+  color: rgb(0, 0, 0);
+ }
+
+ .photo {
+  max-width:100%;
+  max-height: 100%;
+  background-size:cover;
+  position: absolute;
+  margin-left: 700px;;
+  margin-top: -130px;
+  
+ 
+}
+
+ .skills {
+  size: initial;
+}
+a {
+  color: rgb(255, 255, 255);
+}
